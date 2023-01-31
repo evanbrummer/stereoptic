@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "K2B4SwnyWOVEfWa6lb9uVnvgValuiKfGyAIz3PPW0aZavjM3oXmO/zZ4Ee/jdhv9hFMZWB13t9o2yK4BUsgAqA==",
+  "dgSpecHash": "Lubi6+c2GMYp6650NN4kAguVQk5X50fnKcfFK/Ib8s338QJFTHrrEq0lP6GFRhBXyeAJVmDcRMfmcMI5r0k8YQ==",
   "success": true,
-  "projectFilePath": "B:\\_CODE\\stereoptic\\stereoptic\\HighLatencyAudioRecorder.csproj",
+  "projectFilePath": "B:\\_CODE\\stereoptic\\HighLatencyAudioRecorder\\HighLatencyAudioRecorder.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\90015\\.nuget\\packages\\envdte\\17.4.33103.184\\envdte.17.4.33103.184.nupkg.sha512",
     "C:\\Users\\90015\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",

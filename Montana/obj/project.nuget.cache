@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "7Qox9M886bxOQkDX6FcQRAJc+iTBrZYtVPe3qSZexGjTT34I6AsHnoiueA3lA3n6S6x5HCDiHcidvn90AP2zEg==",
+  "dgSpecHash": "ZrhXoDqmwWLs/d9xOBxH4HASOQfk2Nt7/dY6kivUOdta4CMTflrmXwgBBF3DThvfMKA554p4gfsZVpynr2Py9A==",
   "success": true,
-  "projectFilePath": "B:\\_CODE\\stereoptic\\Montana\\Montana.csproj",
+  "projectFilePath": "C:\\Users\\evanb\\Documents\\GitHub\\stereoptic\\Montana\\Montana.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\90015\\.nuget\\packages\\cscore\\1.2.1.2\\cscore.1.2.1.2.nupkg.sha512"
+    "C:\\Users\\evanb\\.nuget\\packages\\cscore\\1.2.1.2\\cscore.1.2.1.2.nupkg.sha512"
   ],
   "logs": [
     {

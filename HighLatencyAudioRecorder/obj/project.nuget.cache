@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "K2B4SwnyWOVEfWa6lb9uVnvgValuiKfGyAIz3PPW0aZavjM3oXmO/zZ4Ee/jdhv9hFMZWB13t9o2yK4BUsgAqA==",
+  "success": true,
+  "projectFilePath": "B:\\_CODE\\stereoptic\\stereoptic\\HighLatencyAudioRecorder.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\90015\\.nuget\\packages\\envdte\\17.4.33103.184\\envdte.17.4.33103.184.nupkg.sha512",
+    "C:\\Users\\90015\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\90015\\.nuget\\packages\\microsoft.visualstudio.interop\\17.4.33103.184\\microsoft.visualstudio.interop.17.4.33103.184.nupkg.sha512",
+    "C:\\Users\\90015\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
+    "C:\\Users\\90015\\.nuget\\packages\\naudio\\2.1.0\\naudio.2.1.0.nupkg.sha512",
+    "C:\\Users\\90015\\.nuget\\packages\\naudio.asio\\2.1.0\\naudio.asio.2.1.0.nupkg.sha512",
+    "C:\\Users\\90015\\.nuget\\packages\\naudio.core\\2.1.0\\naudio.core.2.1.0.nupkg.sha512",
+    "C:\\Users\\90015\\.nuget\\packages\\naudio.midi\\2.1.0\\naudio.midi.2.1.0.nupkg.sha512",
+    "C:\\Users\\90015\\.nuget\\packages\\naudio.wasapi\\2.1.0\\naudio.wasapi.2.1.0.nupkg.sha512",
+    "C:\\Users\\90015\\.nuget\\packages\\naudio.winforms\\2.1.0\\naudio.winforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\90015\\.nuget\\packages\\naudio.winmm\\2.1.0\\naudio.winmm.2.1.0.nupkg.sha512",
+    "C:\\Users\\90015\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
+    "C:\\Users\\90015\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

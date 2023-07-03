@@ -14,4 +14,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = HighLatencyAudioRecorder
-build_property.ProjectDir = C:\Users\evanb\Documents\GitHub\stereoptic\HighLatencyAudioRecorder\
+build_property.ProjectDir = B:\_CODE\stereoptic\HighLatencyAudioRecorder\

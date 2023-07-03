@@ -38,19 +38,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\evanb\\.nuget\\packages\\": {}
+    "C:\\Users\\90015\\.nuget\\packages\\": {},
+    "B:\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\evanb\\Documents\\GitHub\\stereoptic\\Montana\\Montana.csproj",
+      "projectUniqueName": "B:\\_CODE\\stereoptic\\Montana\\Montana.csproj",
       "projectName": "Montana",
-      "projectPath": "C:\\Users\\evanb\\Documents\\GitHub\\stereoptic\\Montana\\Montana.csproj",
-      "packagesPath": "C:\\Users\\evanb\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\evanb\\Documents\\GitHub\\stereoptic\\Montana\\obj\\",
+      "projectPath": "B:\\_CODE\\stereoptic\\Montana\\Montana.csproj",
+      "packagesPath": "C:\\Users\\90015\\.nuget\\packages\\",
+      "outputPath": "B:\\_CODE\\stereoptic\\Montana\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "B:\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\evanb\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\90015\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

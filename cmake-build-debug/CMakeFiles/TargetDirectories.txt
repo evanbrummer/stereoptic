@@ -1,0 +1,3 @@
+C:/Users/evanb/Documents/GitHub/stereoptic/cmake-build-debug/CMakeFiles/stereoptic.dir
+C:/Users/evanb/Documents/GitHub/stereoptic/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/evanb/Documents/GitHub/stereoptic/cmake-build-debug/CMakeFiles/rebuild_cache.dir
